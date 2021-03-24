@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
+    "user01": "node index.js --username andesonalves --room sala01 --hostUri localhost",
+    "user02": "node index.js --username andesonalves --room sala01 --hostUri http://localhost:9898/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
