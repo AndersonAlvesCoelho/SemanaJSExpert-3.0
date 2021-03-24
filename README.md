@@ -1,4 +1,4 @@
-> 💡 Tecnologias utilizadas no projeto  :
+> 💡 Tecnologias utilizadas no projeto :
 
 <code><img height="20" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -20,9 +20,16 @@ Este projeto está sendo desenvolvido na Semana JavaScript Expert 3.0 pelo [Eric
 ## 📚 Atividades realizadas
 
 #### [Aula 01](./aula01)
+
 - [x] Configurações inciais do projeto
 - [x] Instala blessed
 - [x] Criando o layout da aplicação
+
+#### [Aula 02](./aula02)
+
+- [x] Regex para pega username, room, host, port e protocol
+- [x] Instala uuid
+- [x] Criar servidor socket para atualizarção do servidor http para websockter
 
 ## Resumos da semanas
 
@@ -33,12 +40,20 @@ Este projeto está sendo desenvolvido na Semana JavaScript Expert 3.0 pelo [Eric
 <p>Vai aprender a trabalhar com o módulo nativo do Node.js para emissão de eventos customizados e definir quais eventos sua interface deverá respeitar.</p>
 </details>
 
+<details>
+  <summary>✨ Aula 02 - Trabalhando com Sockets HTTP e Arquitetura Orientada a Eventos</summary>
+<p>Nessa aula você vai aprender a trabalhar com Web Sockets usando apenas o módulo nativo do Node.js.
+</p>
+
+<p>Vai também criar a estrutura de cliente e servidor usando emissores de eventos customizados além de criar a função para obter os comandos digitados no terminal.
+</p>
+</details>
 
 ### 💻 Iniciar o projeto
+
 #### Requerimentos
 
 - [Node.js](https://nodejs.org/en/download/)
-
 
 ```bash
     # Clone Repository
