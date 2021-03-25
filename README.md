@@ -31,6 +31,12 @@ Este projeto está sendo desenvolvido na Semana JavaScript Expert 3.0 pelo [Eric
 - [x] Instala uuid
 - [x] Criar servidor socket para atualizarção do servidor http para websockter
 
+#### [Aula 03](./aula03)
+
+- [x] link de eventos
+- [x] Controller de usuarios logados
+
+
 ## Resumos da semanas
 
 <details>
@@ -49,25 +55,17 @@ Este projeto está sendo desenvolvido na Semana JavaScript Expert 3.0 pelo [Eric
 </p>
 </details>
 
-### 💻 Iniciar o projeto
+<details>
+  <summary>✨ Aula 03 - Broadcast de mensagens, recebendo dados de atividade e usuários online em tempo real</summary>
 
-#### Requerimentos
+<p>Nessa aula você vai fazer o link de eventos entre o programa de linha de comando e o servidor Web Socket. </p>
 
-- [Node.js](https://nodejs.org/en/download/)
+<p>Vai obter eventos de clientes que acabaram de entrar na sala de bate-papo, clientes que saíram e principalmente registrar cada um destes eventos.</p>
 
-```bash
-    # Clone Repository
-    git clone https://github.com/AndersonAlvesCoelho/SemanaJSExpert-3.0.git
-    cd SemanaJSExpert -3.0
+<p>Além de receber todos estes eventos, vai também estabilizar a conexão entre multiusuários no chat entre diferentes salas para diferentes usuários.</p>
+</p>
+</details>
 
-    #Acesse um diretório
-    cd NLW-03\hacker-chat\client
 
-    #Logo após, instale as dependências necessárias
-    npm i ou yarn
-
-    #Por fim, starta o projeto
-    npm start ou yarn start
-```
 
 > Anderson Alves 👋 &nbsp;[linkedin](https://www.linkedin.com/in/anderson-alves-7b5587133/)
