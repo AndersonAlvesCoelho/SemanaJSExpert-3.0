@@ -9,6 +9,7 @@
  
 <h3>Semana JavaScript Expert 3.0</h3>
 <img height="300"  src="https://cdn.discordapp.com/attachments/779342878513954829/823617016647909486/unknown.png">
+
 </div>
 
 ## 💡 Sobre o Projeto
@@ -36,6 +37,10 @@ Este projeto está sendo desenvolvido na Semana JavaScript Expert 3.0 pelo [Eric
 - [x] link de eventos
 - [x] Controller de usuarios logados
 
+#### [Aula 04](./aula04)
+
+- [x] Criar aqruivo executavel
+- [x] Publicar projeto no NPM Registry
 
 ## Resumos da semanas
 
@@ -66,6 +71,13 @@ Este projeto está sendo desenvolvido na Semana JavaScript Expert 3.0 pelo [Eric
 </p>
 </details>
 
+<details>
+  <summary>✨ Aula 04 - Criando nosso comando NPM Customizado, publicação de pacotes NPM e servidor na Web</summary>
+<p>Nessa aula você vai aprender a transformar um arquivo JavaScript em um executável. Vai conhecer comandos NPM utilitários para criar seu próprio comando global.</p>
 
+<p>Além disso, você vai publicar o programa de linha de comando no NPM Registry para que todos no mundo possam baixar e testar seu programa.</p>
+</details>
+
+<img height="300"  src="https://media-exp1.licdn.com/dms/image/C4E22AQHaRaOttMdvww/feedshare-shrink_800/0/1616465091967?e=1619654400&v=beta&t=EyQUxxuzIT7U50hsEda2BE87NSBTiLZkVgH4r_cVu-0">
 
 > Anderson Alves 👋 &nbsp;[linkedin](https://www.linkedin.com/in/anderson-alves-7b5587133/)
